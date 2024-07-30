@@ -4,6 +4,7 @@
 
 ## **PERSONAL INFORMATION**
 **NAME**: Harmanjot Kaur
+
 **AGE**: 16
 **Education**: Pursuing B.tech in Computer and science engineering
 
