@@ -1,6 +1,7 @@
 # HARMANJOTCoder.github.io
 ##activity report of student induction programme 2024
 **PROFILE**: Harmanjot Kaur
+![1000000169](https://github.com/user-attachments/assets/5149ec62-7572-4e0a-9173-592c349e1bb4)
 
 ## **PERSONAL INFORMATION**
 **NAME**: Harmanjot Kaur
