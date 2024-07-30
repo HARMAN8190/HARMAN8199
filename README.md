@@ -11,6 +11,7 @@
 ## Class +2 details
 *I have completed my senior secondary from G.H.G Khalsa Senior Secondary School Gurusar,Sudhar with overall percentage of 85%.*
 ## MS Excel Certificate
+![1000000163](https://github.com/user-attachments/assets/7bfc5a0d-4443-4b20-8ce3-a4622ae5cc8f)
 
 ## Contact Details 
 **E-mail**: harmanjotkaurkauldhar@gmail.com
